@@ -63,7 +63,7 @@ void Unit::newTurn(){
 	guard_on = false;
 }
 
-
+// เพิ่มfunctionจนถึงheal
 
 bool Unit::isDead(){
     if(hp <= 0){
